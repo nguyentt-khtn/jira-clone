@@ -1,0 +1,6 @@
+export const USER = 'USER'
+export const GET_USER_API = 'GET_USER_API'
+export const GET_USER = 'GET_USER'
+export const GET_ASSIGN_USER_API = 'GET_ASSIGN_USER_API'
+export const GET_ASSIGN_USER = 'GET_ASSIGN_USER'
+export const DELETE_USER_FROM_PROJECT_API = 'DELETE_USER_FROM_PROJECT_API'

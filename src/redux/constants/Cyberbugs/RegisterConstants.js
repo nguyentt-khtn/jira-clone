@@ -1,0 +1,7 @@
+export const REGISTER_USER_API = 'REGISTER_USER_API'
+
+export const DELETE_USER_API = 'DELETE_USER_API'
+
+export const SEND_EDIT_USER = 'SEND_EDIT_USER'
+
+export const EDIT_USER_API = 'EDIT_USER_API'
